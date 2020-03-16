@@ -3,5 +3,6 @@
  */
 public class Test {
     private String Test;
-    private String Testb;
+    private String Testc;
+    private String shengge;
 }
